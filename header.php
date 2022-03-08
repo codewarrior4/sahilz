@@ -8,8 +8,8 @@
                     <div class="col">
                         <div class="site-logo-wrap">
                             <div class="site-logo">
-                                <h2>Sahilz.</h2>
-                                <!-- <a href="index.php"><img src="img/logo.png" alt="Logo"></a> -->
+                                <!-- <h2>Sahilz.</h2> -->
+                                <a href="index.php"><img src="img/logo.png" alt="Logo"></a>
                             </div>
                             <div class="get-support clearfix d-none">
                                 <div class="get-support-icon">
